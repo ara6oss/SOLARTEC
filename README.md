@@ -45,8 +45,8 @@ This project integrates with WhatsApp via the Green API to provide automated mes
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/ara6oss/solar-whatsapp-api.git](https://github.com/ara6oss/SOLARTEC.git
-   cd solar-whatsapp-api
+   git clone https://github.com/ara6oss/SOLARTEC.git
+   cd SOLARTEC
    ```
 
 2. **Create a Virtual Environment**
