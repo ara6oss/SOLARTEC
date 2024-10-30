@@ -45,7 +45,7 @@ This project integrates with WhatsApp via the Green API to provide automated mes
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/your-username/solar-whatsapp-api.git
+   git clone https://github.com/ara6oss/solar-whatsapp-api.git
    cd solar-whatsapp-api
    ```
 
@@ -127,7 +127,7 @@ The server will be accessible at `http://127.0.0.1:8000/`.
   ```
 
 ### Send Multimedia
-- **Endpoint**: `/api/v1/sendFileByUpload/`
+- **Endpoint**: `/api/v1/sendFile/`
 - **Method**: `POST`
 - **Description**: Sends a multimedia file to a WhatsApp user.
 - **Form Data**:
